@@ -1,11 +1,11 @@
 # Git Command Cheat Sheet
 
-###Initialize a new git repository:
+### Initialize a new git repository:
 git init
 
-###Set Configuration values for your username and email:
+### Set Configuration values for your username and email:
 git config --global user.name <your-name>
 git config --global user.email <your-email>
 
-###Clone a repository from GitHub to your machine
+### Clone a repository from GitHub to your machine
 git clone <repository-url>
