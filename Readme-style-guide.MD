@@ -1,4 +1,4 @@
-# README-README: A Style Guide for README files
+# A Style Guide for README files
 
 ## Contents
 
