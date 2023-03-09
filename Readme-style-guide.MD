@@ -38,11 +38,11 @@ them later."
   - performance, flexibility, expressiveness?
 
 * **Detailed Usage**
-  - models and interface
-  - examples
-  - configuration
-  - middleware or plugins
-  - how it works
+  1. models and interface
+  2. examples
+  3. configuration
+  4. middleware or plugins
+  5. how it works
 
 * **Comparable Tools**
 
