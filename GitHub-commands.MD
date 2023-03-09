@@ -1,29 +1,58 @@
 # Git Command Cheat Sheet
 
-### Initialize a new git repository:
-git init
+This is just a list of the most often used git commands.
 
-### Set Configuration values for your username and email:
-git config --global user.name <your-name>
-git config --global user.email <your-email>
+
+## Set Configuration values for your username and email:
+
+```bash
+git config --global user.name 
+git config --global user.email
+```
+## Initialize a new git repository:
+
+```bash
+git init
+```
 
 ### Clone a repository from GitHub to your machine
-git clone - branch <repository-url> <dir_name>
+
+```bash
+git clone - branch <dir_name>
+```
 
 ### Working with Files
+
+```bash
 git add <filename_or_directory>
+```
 
-* add allfiles inside current directory to git
+*add all files inside the current directory to git*
+
+```bash
 git add .
+```
 
-*see changes in current repository
+*see changes in the current repository*
+
+```bash
 git status
+```
 
-*staging changes in all tracked files and commiting with a message
+*staging changes in all tracked files and committing with a message*
+
+```bash
 git add -an "[message]"
+```
 
-*push the commited changes to a remote repository
-git push <remote> <branch>
+## Push the committed changes to a remote repository 
 
-*download content from a remote repository
-git pull <remote>
+```bash
+git push
+```
+
+## Download content from a remote repository 
+
+```bash
+git pull
+```
