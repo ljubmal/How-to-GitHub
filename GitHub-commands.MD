@@ -46,10 +46,10 @@ git status
 git add -an "[message]"
 ```
 
-## Push the committed changes to a remote repository 
+## push an existing repository from the command line
 
 ```bash
-git push
+git push -u origin main
 ```
 
 ## Download content from a remote repository 
