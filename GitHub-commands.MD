@@ -9,9 +9,10 @@ This is just a list of the most often used git commands.
 git config --global user.name 
 git config --global user.email
 ```
-## Initialize a new git repository:
+## Create a working directory and initialize a new git repository
 
 ```bash
+cd C:\Users\UserName\FolderName
 git init
 ```
 
